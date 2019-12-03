@@ -1,0 +1,23 @@
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Button
+        android:id="@+id/btncontato"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:onClick="cContatos"
+        android:text="@string/cad_contato"/>
+
+    <Button
+        android:id="@+id/btnlistar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lContatos"
+        android:text="@string/list_contato"/>
+
+</LinearLayout>

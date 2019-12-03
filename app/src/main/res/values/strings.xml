@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Agenda Telefonica</string>
+    <string name="salvar_pref">Salvar preferencias</string>
+    <string name="cad_contato">Cadastrar Contato</string>
+    <string name="list_contato">Listar Contato</string>
+    <string name="salvar">Salvar</string>
+    <string name="codigo_Operadora">Código da Operadora</string>
+    <string name="codigo_cidade">Código da cidade</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="ddd">DDD</string>
+    <string name="telefone">Telefone</string>
+    <string name="id">ID</string>
+    <string name="novo">Novo</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="alterar">Alterar</string>
+    <string name="excluir">Excluir</string>
+</resources>
+
+

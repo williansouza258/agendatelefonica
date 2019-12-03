@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/idContato"
+        android:text="@string/id"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:gravity="left"/>
+
+    <TextView
+        android:id="@+id/nomeContato"
+        android:text="@string/nome"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:gravity="left"/>
+
+    <TextView
+        android:id="@+id/dddContato"
+        android:text="@string/ddd"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="200dp"
+        android:gravity="left"/>
+
+    <TextView
+        android:id="@+id/telefoneContato"
+        android:text="@string/telefone"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="250dp"
+        android:gravity="left"/>
+
+</RelativeLayout>
